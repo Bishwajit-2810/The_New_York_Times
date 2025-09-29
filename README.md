@@ -70,7 +70,7 @@ To run this project, simply save the provided HTML content and open it in a web 
 **Bishwajit Chakraborty**
 
 - Student ID: **1414**
-- Student Section: **63_B**
+- Student Section: **63_B1**
 - GitHub: [@Bishwajit-2810](https://github.com/Bishwajit-2810)
 - Portfolio: [https://bishwajit-2810.github.io/](https://bishwajit-2810.github.io/)
 - LinkedIn: [Bishwajit Chakraborty](https://www.linkedin.com/in/bishwajit-chakraborty/)
